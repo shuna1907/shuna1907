@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Sümeyra! </h1>
+<p align="center">
+<i>Second-year Software Engineering student with hands-on frontend experience and a growing interest in cybersecurity.</i>
+</p>
 
-<!--
-**shuna1907/shuna1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Second-year Software Engineering student  
+- Experienced in frontend development (HTML, CSS, JavaScript)  
+- Actively learning cybersecurity and system fundamentals  
+- Curious, detail-oriented, and eager to improve through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ --- 
+
+## 💻 Programming Languages
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+
+---
+
+## 📫 Contact Me
+- 📧 Email to: [sumeyracetin505@gmail.com](mailto:sumeyracetin505@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sümeyra-çetin](https://www.linkedin.com/in/s%C3%BCmeyra-%C3%A7etin-9bab6933a/)
+
+---
+
+<p align="center"> 🚀 Always building, always learning!</p>
