@@ -1,26 +1,32 @@
-<h1 align="center"> Hi, I'm Sümeyra! </h1>
+<h1 align="center">Hi, I'm Sümeyra 👋</h1>
+
 <p align="center">
-<i>Second-year Software Engineering student with hands-on frontend experience and a growing interest in cybersecurity.</i>
+  <i>Second-year Software Engineering student with hands-on frontend experience and a growing interest in cybersecurity.</i>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- Second-year Software Engineering student  
-- Experienced in frontend development (HTML, CSS, JavaScript)  
-- Actively learning cybersecurity and system fundamentals  
-- Curious, detail-oriented, and eager to improve through hands-on projects
+- 🎓 Second-year Software Engineering student  
+- 💻 Frontend development experience (HTML, CSS, JavaScript)  
+- 🔐 Actively learning cybersecurity and system fundamentals  
+- 🚀 Curious, detail-oriented, and eager to improve through hands-on projects  
 
- --- 
+---
 
-## 🛠️ Technologies & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+## 🧰 Tech Stack
 
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -30,4 +36,5 @@
 
 ---
 
-<p align="center"> 🚀 Always building, always learning!</p>
+<p align="center">🚀 Always building, always learning!</p>
+
